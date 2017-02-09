@@ -1,0 +1,1 @@
+entries_config.js
