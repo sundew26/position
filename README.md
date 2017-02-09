@@ -26,7 +26,7 @@ http://localhost:8080/view/index.html进入页面
 >>>utils.js -------------------- css加载的方法  <br/>
 >>>webpack.base.conf.js -------------------- webpack基本配置  <br/>
 >>>webpack.conf.js -------------------- webpack配置  <br/>
-> > dist -------------------- 打包后的目标地址  <br/>
+> dist -------------------- 打包后的目标地址  <br/>
 >>node_modules -------------------- 依赖包放置  <br/>
 >>src  <br/>
 >>>component  <br/>
